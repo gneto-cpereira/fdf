@@ -9,7 +9,7 @@ FdF is a minimalist 3D wireframe renderer written in C. It transforms coordinate
 ```bash
 git clone https://github.com/gneto-cpereira/fdf.git
 cd fdf
-./run_fdf.sh
+./run.sh
 ```
 A menu will open where you can select a map to view.
 
