@@ -2,7 +2,7 @@
 
 FdF is a minimalist 3D wireframe renderer written in C. It transforms coordinates from a simple text file into a 3D isometric representation. This project focuses on graphic rendering algorithms, mathematical projections, and window management.
 
-This project was developed as part of the 42 School curriculum
+This project was developed as part of the **42 School** curriculum
 
 ## 🚀 How to compile it
 ### Prerequisites
